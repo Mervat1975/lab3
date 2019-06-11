@@ -1,0 +1,73 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SemesterAverage
+</name>
+</assembly>
+<members>
+<member name="T:SemesterAverage.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SemesterAverage.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SemesterAverage.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:SemesterAverage.FrmSemasterAvrage.getLatterGrade(System.Int32)">
+ 
+ ''' <summary>
+ this function recive the numeric grade value and return the letter grade
+ </summary>
+ <param name="numericGrade"></param>
+ <returns></returns>
+</member>
+<member name="M:SemesterAverage.FrmSemasterAvrage.txtNumericGrade_LostFocus(System.Object,System.EventArgs)">
+ <summary>
+this sub is a generic sub it has 6 handlers( the all 6 text boxes lost focus) 
+it responsible for invoking the getLatterGrade  function and display the result in the desired label
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.FrmSemasterAvrage.btnCalculate_Click(System.Object,System.EventArgs)">
+ <summary>
+this sub will invoke by click on the calculate button
+ it stores the 6 entered values in the array then calculate the average
+ ,invoke the getLetterGrade function and display the semester letter grade in the label
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.FrmSemasterAvrage.btnReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Clear all the form controls (textboxes and labels)
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.FrmSemasterAvrage.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ Close the application
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.FrmSemasterAvrage.txtNumericGrade_TextChanged(System.Object,System.EventArgs)">
+ <summary>
+ this sub is a generic sub it has 6 handlers( the all 6 text boxes txt change) 
+ it clers the error label 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
