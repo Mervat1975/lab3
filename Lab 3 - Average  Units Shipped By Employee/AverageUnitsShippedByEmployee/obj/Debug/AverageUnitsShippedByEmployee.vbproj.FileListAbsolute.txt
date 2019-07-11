@@ -1,0 +1,24 @@
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.exe.config
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.exe
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.pdb
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\bin\Debug\SemesterAverage.xml
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\obj\Debug\AverageUnitsShippedByEmployee.vbprojAssemblyReference.cache
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.Resources.resources
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\obj\Debug\AverageUnitsShippedByEmployee.vbproj.GenerateResource.cache
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\obj\Debug\AverageUnitsShippedByEmployee.vbproj.CoreCompileInputs.cache
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.exe
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.xml
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.pdb
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\SemesterAverage\SemesterAverage\obj\Debug\SemesterAverage.FrmAverageUnitsShippedByEmployee.resources
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\bin\Debug\SemesterAverage.exe.config
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\bin\Debug\SemesterAverage.exe
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\bin\Debug\SemesterAverage.pdb
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\bin\Debug\SemesterAverage.xml
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\obj\Debug\AverageUnitsShippedByEmployee.vbprojAssemblyReference.cache
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\obj\Debug\SemesterAverage.FrmAverageUnitsShippedByEmployee.resources
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\obj\Debug\SemesterAverage.Resources.resources
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\obj\Debug\AverageUnitsShippedByEmployee.vbproj.GenerateResource.cache
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\obj\Debug\AverageUnitsShippedByEmployee.vbproj.CoreCompileInputs.cache
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\obj\Debug\SemesterAverage.exe
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\obj\Debug\SemesterAverage.xml
+C:\Users\Meme\Desktop\College\Semaster2\NETD\Labs\Lab3\Lab 3 - Average  Units Shipped By Employee\SemesterAverage\obj\Debug\SemesterAverage.pdb

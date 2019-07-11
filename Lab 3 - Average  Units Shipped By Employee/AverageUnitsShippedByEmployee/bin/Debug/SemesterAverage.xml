@@ -1,0 +1,75 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SemesterAverage
+</name>
+</assembly>
+<members>
+<member name="T:SemesterAverage.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:SemesterAverage.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:SemesterAverage.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:SemesterAverage.FrmAverageUnitsShippedByEmployee.btnExit_Click(System.Object,System.EventArgs)">
+ <summary>
+ close the application
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.FrmAverageUnitsShippedByEmployee.InputValidate(System.String)">
+ <summary>
+ validate the input value and return true if its valid other wise it will return false
+ </summary>
+ <param name="inputGrade"></param>
+ <returns></returns>
+</member>
+<member name="M:SemesterAverage.FrmAverageUnitsShippedByEmployee.GetSum(System.Int32[0:,0:],System.Int32)">
+ <summary>
+The function  takes the array and employee index as parameters
+and loop the array and calculating the sum  for that specific index.
+ </summary>
+ <param name="arr"></param>
+ <param name="row"></param>
+ <returns></returns>
+</member>
+<member name="M:SemesterAverage.FrmAverageUnitsShippedByEmployee.GetAllSum(System.Int32[0:,0:])">
+ <summary>
+ The function takes the array as a parameter and for each employee call the function above storing the value calculated for each employee
+ and then  returam the sum of all the arrry elements.
+ </summary>
+ <param name="arr"></param>
+ <returns></returns>
+</member>
+<member name="M:SemesterAverage.FrmAverageUnitsShippedByEmployee.btnEnter_Click(System.Object,System.EventArgs)">
+ <summary>
+ take an input for each day in the week numbered from 1 to 7,
+ but the functionality will be extended to record the information for 3 employees. 
+ The user input data will need to be validated and, if it passes validation, 
+ the data will need to be displayed to the user. Once the number of units has been entered for the 7th
+ day for the 3rd employee the solution will calculate and display the average per employee, as well as, the company average.
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:SemesterAverage.FrmAverageUnitsShippedByEmployee.btnReset_Click(System.Object,System.EventArgs)">
+ <summary>
+ Reset the form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>
